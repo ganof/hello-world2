@@ -2,4 +2,4 @@
 
 Hi, GitHub!
 
-I am going to study you.
+I will study you.
